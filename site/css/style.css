@@ -1,0 +1,60 @@
+#h1{
+    text-align: center   
+}
+
+a{
+    display: flex;
+    padding-left: 830px;
+    color: black;
+}
+
+a:hover{
+    color: green;
+    font-size: large;
+    border-style: solid
+}
+
+#camera{
+    width: 200px;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+}
+
+#Camera{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    
+}
+
+#camera1{
+    width: 200px;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+}
+
+footer{
+    background-color: rgb(57, 176, 57);
+    color: aliceblue;
+
+}
+
+#div{
+    border-style: solid;
+    border-radius: 20px;
+}
+
+#div1{
+    border-style: solid;
+    border-radius: 20px;
+}
+
+#div2{
+    border-style: solid;
+    border-radius: 20px;
+}
+
+#add-to-cart{
+    padding-left: 300px;
+}
